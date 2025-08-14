@@ -1,0 +1,41 @@
+// Homework
+// 1-topshiriq 
+// Ma'lumotlar (Data)
+// Ma'lumotlar — bu har qanday faktlar, raqamlar, kuzatuvlar yoki o‘lchovlar bo‘lib, ular analiz qilinmagan holatda bo‘ladi. Ular strukturali (masalan, Excel jadvalidagi raqamlar) yoki strukturalanmagan (masalan, matn, suratlar) ko‘rinishda bo‘lishi mumkin.
+
+// 2- topshiriq 
+//    1. Ma’lumotlar xavfsizligi (Data Security)
+//    2. Transaksiyalarni qo‘llab-quvvatlash (ACID Compliance)
+//    3. Zaxira va tiklash imkoniyatlari (Backup and Restore)
+//    4. Skalalanuvchanlik va samaradorlik (Scalability and Performance)
+//    5. Grafik interfeys va boshqaruv vositalari (GUI Tools & Management)
+
+// 3-topshiriq 
+//    1- Windows Authentication (Windows Avtorizatsiyasi)
+//    Foydalanuvchi Windows tizimiga kirish uchun ishlatiladigan hisob qaydnomasi bilan avtorizatsiya qilinadi.
+//    SQL Server Windows foydalanuvchi yoki guruhlari huquqlarini qabul qiladi.
+//    Bu usul xavfsizroq, chunki tizimning umumiy xavfsizlik siyosati qo‘llaniladi.
+
+//    2- SQL Server Authentication (SQL Server Avtorizatsiyasi)
+//    SQL Serverda maxsus foydalanuvchi nomi va parol yordamida avtorizatsiya qilinadi.
+//    Windows hisobidan mustaqil ishlaydi, masalan, Windows tizimida hisob qaydnomasi bo‘lmagan foydalanuvchilar uchun qulay
+
+// 4-topshiriq 
+//   CREATE database SchoolDB
+// 5-topshiriq
+//   use SchoolDB
+
+//   create table StudentID(StudentID int PRIMARY KEY, name varchar(50), age int)
+
+//   select * from StudentID 
+
+// 6-topshiriq 
+     SQL Server
+       Ta'rifi: Bu — Microsoft tomonidan ishlab chiqilgan ma’lumotlar bazasi boshqaruv tizimi (DBMS).
+  
+     SSMS (SQL Server Management Studio)
+       Ta'rifi: Bu — SQL Server bilan ishlash uchun mo‘ljallangan grafik interfeys va boshqaruv vositasi.
+
+     SQL (Structured Query Language)
+       Ta'rifi: Bu — ma’lumotlar bazasiga so‘rov yuborish uchun ishlatiladigan so‘rov tili.
+
